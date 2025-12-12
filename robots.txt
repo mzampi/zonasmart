@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.zonasmart.it/sitemap.xml
